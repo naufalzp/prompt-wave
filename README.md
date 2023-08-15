@@ -2,9 +2,10 @@
 
 PromptWave is an open-source AI prompting tool for modern world to discover, create and chare creative prompts.
 
-## Deploy Status
+## Demo 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e7db2d5-5c6b-466a-906c-0ad2cdebc711/deploy-status?branch=main)](https://prompt-wave.netlify.app/)
+<a href="https://prompt-wave-zeta.vercel.app/"><strong>➥ Live Demo</strong></a>
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
