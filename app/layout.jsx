@@ -5,6 +5,7 @@ import "@styles/global.css";
 export const metadata = {
   title: "PromptWave",
   description: "Discover & Share Ai Prompts",
+  icons: "/assets/images/logo.png",
 };
 
 const RootLayout = ({ children }) => {
