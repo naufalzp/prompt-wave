@@ -1,7 +1,7 @@
 # PromptWave
 
 PromptWave is an open-source AI prompting tool for modern world to discover, create and chare creative prompts.
-
+![image](https://github.com/naufalzp/prompt-wave/assets/98691805/24e9cd4b-d129-40f7-b2e4-62c433614e75)
 ## Demo 
 
 <a href="https://prompt-wave-zeta.vercel.app/"><strong>➥ Live Demo</strong></a>
